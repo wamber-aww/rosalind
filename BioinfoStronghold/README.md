@@ -45,3 +45,8 @@ This is the **Bioinformatics Stronghold** problem sets from [Rosalind](http://ro
 ### Q11: Consensus and Profile
   - Given: A collection of at most 10 DNA strings of equal length (at most 1 kbp) in FASTA format.
   - Return: A consensus string and profile matrix for the collection. (If several possible consensus strings exist, then you may return any one of them.)
+
+### Q12: Overlap Graphs
+  - Given: A collection of DNA strings in FASTA format having total length at most 10 kbp.
+  - Return: The adjacency list corresponding to O3. You may return edges in any order.
+
